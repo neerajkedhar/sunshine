@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883203486436",
+    "project_id": "sunshine-dc62c",
+    "storage_bucket": "sunshine-dc62c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883203486436:android:21c0460eb280bc6c15f2f1",
+        "android_client_info": {
+          "package_name": "com.kedhar.sunshine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883203486436-qvn9sadiajf87nrk5sjud58loliaeb7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3iMAwvrbxvlaUqMRoQmygsLGm4vbfExg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883203486436-qvn9sadiajf87nrk5sjud58loliaeb7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
